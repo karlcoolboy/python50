@@ -14,12 +14,19 @@
 
 ## 目录
 
-[1](/Users/wangshuai/GitHub repo/PythonCore50Courses/第01课：初识Python.md)
+[1节](01.md)
+[2节](02.md)
+[3节](03.md)
+[4节](04.md)
+[5节](05.md)
+[6节](06.md)
+[7节](07.md)
+[8节](08.md)
+[9节](09.md)
+[10节](010.md)
+[11节](011.md)
+[12节](012.md)
+[13节](013.md)
+[14节](014.md)
+[15节](015.md)
 
-[2](/Users/wangshuai/GitHub repo/PythonCore50Courses/第02课：第一个Python程序.md)
-
-[3](/Users/wangshuai/GitHub repo/PythonCore50Courses/第03课：Python语言元素之变量.md)
-
-[4](/Users/wangshuai/GitHub repo/PythonCore50Courses/第04课：Python语言元素之运算符.md)
-
-[5](/Users/wangshuai/GitHub repo/PythonCore50Courses/第05课：分支结构.md)
