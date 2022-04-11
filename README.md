@@ -12,6 +12,14 @@
 151.101.184.133    camo.githubusercontent.com
 ```
 
-下面是我创建的学习交流群（群号：789050736），欢迎加入一起学习共同进步。
+## 目录
 
-<img src="https://gitee.com/jackfrued/mypic/raw/master/20211205225143.png" style="zoom:50%;">
+[1](/Users/wangshuai/GitHub repo/PythonCore50Courses/第01课：初识Python.md)
+
+[2](/Users/wangshuai/GitHub repo/PythonCore50Courses/第02课：第一个Python程序.md)
+
+[3](/Users/wangshuai/GitHub repo/PythonCore50Courses/第03课：Python语言元素之变量.md)
+
+[4](/Users/wangshuai/GitHub repo/PythonCore50Courses/第04课：Python语言元素之运算符.md)
+
+[5](/Users/wangshuai/GitHub repo/PythonCore50Courses/第05课：分支结构.md)
